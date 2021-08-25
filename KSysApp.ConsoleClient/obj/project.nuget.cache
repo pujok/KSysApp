@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ecddw7JqISxVnyJ7UhK86SuMPXy+QE2TJeYzzWcnm/VtApIJmqkYYV9DeWhRaaUm2fRAdMtVa6L3iPuiuvh31g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\Documents\\KSysApp\\KSysApp.ConsoleClient\\KSysApp.ConsoleClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.9\\microsoft.aspnetcore.connections.abstractions.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.9\\microsoft.aspnetcore.http.connections.client.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.9\\microsoft.aspnetcore.http.connections.common.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.9\\microsoft.aspnetcore.http.features.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.9\\microsoft.aspnetcore.signalr.client.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.9\\microsoft.aspnetcore.signalr.client.core.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.9\\microsoft.aspnetcore.signalr.common.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.9\\microsoft.aspnetcore.signalr.protocols.json.5.0.9.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

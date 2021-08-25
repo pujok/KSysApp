@@ -1,0 +1,17 @@
+﻿<Window x:Class="KSysApp.WPFClient.ChatWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KSysApp.WPFClient"
+        mc:Ignorable="d"
+        Title="KSysChat" SizeToContent="WidthAndHeight" MaxHeight="810" MaxWidth="960">
+    <Grid>
+        <TextBox Margin="10,0,75,10" Name="MessageBox" TextWrapping="Wrap" KeyDown="MessageKeyEventHandler" Height="60" VerticalAlignment="Bottom" MinWidth="275"/>
+        <Button Content="Send" Margin="0,0,10,10" Click="SendCommand" Name="SendButton" Height="60" VerticalAlignment="Bottom" Width="60" HorizontalAlignment="Right"/>
+        <ScrollViewer Margin="10,36,10,75" VerticalScrollBarVisibility="Auto" Name="MessageScrollViewer">
+            <TextBlock Name="MessageBlock" TextWrapping="Wrap" MinHeight="300"/>
+        </ScrollViewer>
+        <Label Content="Messages:" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
